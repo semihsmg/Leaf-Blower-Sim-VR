@@ -1,0 +1,31 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b0)
+    Vendor:   ATI
+    VRAM:     8167 MB
+    Driver:   16.150.2211.0
+Begin MonoManager ReloadAssembly
+Platform assembly: U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.781 seconds
+Platform assembly: U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: U:\Users\VR.FIRST\Desktop\Leaf Blower Sim\Release\Leaf Blower Sim_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.
